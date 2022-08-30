@@ -18,7 +18,7 @@ This project leverages python 3.9 with the following package:
 
 ## Installation Guide
 
-Before running the application first install the following dependencies on your GitBash, macOS user, please upload the notebook using Google Colab.
+Before running the application first install the following dependencies on your GitBash. For MacOS user, you can download GC notebook and upload the notebook using Google Colab.
 
 ```python
 pip install --upgrade tensorflow
